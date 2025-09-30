@@ -1,24 +1,24 @@
 # 👋 Hi, I'm Byron Vinicio Salguero Villeda
+# QA Portfolio – Byron Vinicio Salguero Villeda
 
-## 🌐 About Me
-I am a **Full Stack Development student** at Universidad Galileo (currently in 2nd semester) with a technical background and a strong interest in **Manual QA**.  
-Passionate about building reliable applications and ensuring software quality through development and testing practices.  
+Welcome to my QA portfolio! 🚀  
+Here you can find examples of my work as a Manual QA Tester.
 
-## 💻 Skills
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js, SQL/MySQL  
-- **QA & Testing:** Manual Testing, Test Cases, Bug Reporting  
-- **Tools:** GitHub, Visual Studio Code, Cypress, Selenium IDE  
-- **Methodologies:** Agile (Scrum)  
+## 📂 Contents
+- **Resume** → My updated CV in PDF.  
+- **Test Cases** → Excel file with test cases for a sample application.  
+- **Bug Reports** → Document with reported bugs including severity, priority, and steps to reproduce.  
 
-## 📂 QA Portfolio
-Check out my QA projects, including test cases and bug reports:  
-👉 https://github.com/Devinni4k/QA-portfolio.git
+## 🌍 About Me
+- Location: Guatemala  
+- Languages: English (advanced), Spanish (native)  
+- Currently studying Full Stack Development at Universidad Galileo.  
+- Experience: Technical support (TELUS), incident reporting and troubleshooting.  
 
 ## 📫 Contact
-- 📧 Email: vinnie2302@gmail.com  
-- 🌍 Location: Guatemala, Guatemala  
-- 🔗 LinkedIn: linkedin.com/in/byron-salguero
+- Email: vinnie2302@gmail.com  
+- Phone: +502 3782 7166  
+- LinkedIn: linkedin.com/in/byron-salguero
 
 ---
 ✨ *“Quality is never an accident; it is always the result of intelligent effort.”* – John Ruskin
