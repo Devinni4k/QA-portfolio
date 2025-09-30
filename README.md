@@ -13,3 +13,8 @@ Here you can find examples of my work as a Manual QA Tester.
 - Languages: English (advanced), Spanish (native)  
 - Currently studying Full Stack Development at Universidad Galileo.  
 - Experience: Technical support, incident reporting and troubleshooting.  
+
+## 📫 Contact
+- Email: vinnie2302@gmail.com  
+- Phone:   
+- LinkedIn:
