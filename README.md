@@ -18,7 +18,7 @@ Check out my QA projects, including test cases and bug reports:
 ## 📫 Contact
 - 📧 Email: vinnie2302@gmail.com  
 - 🌍 Location: Guatemala, Guatemala  
-- 🔗 LinkedIn: www.linkedin.com/in/byron-salguero/*  
+- 🔗 LinkedIn: linkedin.com/in/byron-salguero
 
 ---
 ✨ *“Quality is never an accident; it is always the result of intelligent effort.”* – John Ruskin
