@@ -12,4 +12,4 @@ Here you can find examples of my work as a Manual QA Tester.
 - Location: Guatemala  
 - Languages: English (advanced), Spanish (native)  
 - Currently studying Full Stack Development at Universidad Galileo.  
-- Experience: Technical support (TELUS), incident reporting and troubleshooting.  
+- Experience: Technical support, incident reporting and troubleshooting.  
