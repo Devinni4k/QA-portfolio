@@ -1,7 +1,7 @@
 # Junior QA Analyst
 
  Guatemala | Open to Remote / Hybrid  
- vinnie23@gmail.com  
+ Gmail: vinnie23@gmail.com  
  LinkedIn: https://linkedin.com/in/byron-salguero
  GitHub: https://github.com/Devinni4k/QA-portfolio.git
 
